@@ -10,4 +10,10 @@ public class PersonapiApplication {
 		SpringApplication.run(PersonapiApplication.class, args);
 	}
 
+	/*public void test(){
+
+		return System.out.println("Test");
+	}
+
+	test();*/
 }
